@@ -3,11 +3,14 @@ This project is built to recognize handwritten characters using artificial intel
 
 This system includes a simple web application that takes images as an input and outputs the prediction that the convolutional neural network generated:
 
-![Picture1](https://github.com/blinasmailaj/OpticalCharacterRecognition/assets/74669741/58cc21d1-3ad9-400e-934d-28c91ab71b6a)
+![Picture1](https://github.com/blinasmailaj/OpticalCharacterRecognition/assets/74669741/1c1c94d0-6608-42d9-8861-d770522a5e1a)
 
 Other examples:
 
-https://github.com/blinasmailaj/OpticalCharacterRecognition/assets/74669741/f54b9f6e-bfff-4174-8846-520c3bb0ef51
+https://github.com/blinasmailaj/OpticalCharacterRecognition/assets/74669741/f4ae7dd7-9fe2-4607-a52f-5d44abd891a4
+
+
+
 
 
 
